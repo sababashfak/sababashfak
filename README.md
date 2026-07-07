@@ -126,47 +126,16 @@ Currently, I'm transitioning my portfolio toward **Applied AI Engineering** and 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sababashfak&show_icons=true&theme=github_dark)
+![Fahim's GitHub stats](https://github-stats-extended.vercel.app/api?username=sababashfak)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sababashfak&layout=compact&theme=github_dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sababashfak&langs_count=5)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sababashfak&theme=github-dark)
 
----
-
-## 📊 Contribution Graph
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sababashfak&theme=github-dark)
-
----
-
-
-
-
-# Card Types
-- Show your GitHub statistics:
-
-  ![Fahim's GitHub stats](https://github-stats-extended.vercel.app/api?username=sababashfak)
-
-- ...your top languages...:
-
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sababashfak&langs_count=5)
-
-
-
-- Customize all the cards:
 
   [![Fahim's GitHub stats](https://github-stats-extended.vercel.app/api/?username=sababashfak&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Sabab+Ashfak+Fahim's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=sababashfak&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Sabab+Ashfak+Fahim's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
-
-
-
-
-
-
-
-
-
-
+---
 
 > "Building intelligent systems that bridge research and real-world impact."
