@@ -128,7 +128,7 @@ Currently, I'm transitioning my portfolio toward **Applied AI Engineering** and 
 
 ![Fahim's GitHub stats](https://github-stats-extended.vercel.app/api?username=sababashfak)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sababashfak&langs_count=5)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sababashfak&langs_count=10)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sababashfak&theme=github-dark)
 
