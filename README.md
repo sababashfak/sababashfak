@@ -1,20 +1,143 @@
-### Hi there 👋, I'm Sabab Ashfak Fahim
-#### Web Developer & Software Developer
-![Web Developer & Software Developer](https://media.licdn.com/dms/image/v2/D5616AQE6Lrz0gbXd4A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1699247276087?e=1733356800&v=beta&t=UGBkYBVg7BLV7bvGo0KQqMtn3fBD01tt87Qb6jNLkTM)
+# Hi there 👋 I'm Sabab Ashfak Fahim
 
-I am a CSE student from North South University. I am a web developer, software developer and digital marketing expert. I work on projects which use HTML, CSS, JS, React, Tailwind as frontend and Python, and PHP as the backend. I work on projects of software development using Java(with JavaFX).
+### Applied AI Engineer | Machine Learning Engineer | AI Research Enthusiast
 
-I have done a complete course with a successful project using SQL Database, where data handling and quarry run was the main focus. 
+I'm a Computer Science graduate passionate about building intelligent systems that solve real-world problems.
 
-Skills: HTML/CSS/Tailwind/JavaScript/React/Java/Python/SQL
+My interests span **Machine Learning, Large Language Models (LLMs), NLP, Retrieval-Augmented Generation (RAG), AI Agents, Automation, and Software Engineering**.
 
-- 🔭 I’m currently working on a MERN Stack web based project and a Flutter based Mobile App 
-- 🌱 I’m currently learning MERN/Flutter 
-- 💬 Ask me about anything you want 
-- 📫 How to reach me: Facebook or LinkedIn 
+Besides AI, I'm the founder of **Posh Coder**, where I've worked on web applications, business automation, SEO, and digital solutions for local and international clients.
 
+Currently, I'm transitioning my portfolio toward **Applied AI Engineering** and **AI Research**, focusing on production-ready AI systems rather than traditional software development.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sababashfak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sababashfakfahim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sabab.ashfak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sabab_ashfak_fahim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/FahimAshfak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.poshcoder.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/sababashfakfahim)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sababashfak)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Current Focus
 
+- 🤖 Large Language Models (LLMs)
+- 🧠 Machine Learning & Deep Learning
+- 📚 Natural Language Processing (NLP)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🛠 AI Agents & MCP
+- 📊 AI Evaluation & Benchmarking
+- ⚡ AI Business Automation
+- 🧪 AI Research
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+- Python
+- Java
+- JavaScript
+- SQL
+
+### AI / Machine Learning
+
+- PyTorch
+- TensorFlow
+- Scikit-Learn
+- Hugging Face
+- Transformers
+- Pandas
+- NumPy
+- Matplotlib
+
+### LLM Ecosystem
+
+- LangChain
+- LlamaIndex
+- OpenAI API
+- Claude API
+- Gemini API
+- Ollama
+- ChromaDB
+- FAISS
+
+### Web Development
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+- HTML
+- CSS
+- Tailwind CSS
+
+### Dev Tools
+
+- Git
+- GitHub
+- Docker
+- Linux
+- VS Code
+- Postman
+
+---
+
+## 🔬 Research Interests
+
+- Applied AI
+- Machine Learning
+- NLP
+- LLM Evaluation
+- AI Search
+- Information Retrieval
+- Agentic AI Systems
+- Retrieval-Augmented Generation
+- Photonic Time Crystals
+- Metasurface Inverse Design
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced NLP
+- LLM Fine-tuning
+- AI Agents
+- Model Context Protocol (MCP)
+- LangGraph
+- Production AI Systems
+- MLOps
+
+---
+
+## 📌 Featured Projects
+
+- AI-powered Applications
+- NLP Systems
+- RAG Chatbots
+- Machine Learning Pipelines
+- Web Applications
+- Business Automation Systems
+- Research Projects
+
+---
+
+## 🌍 Connect with Me
+
+- GitHub: https://github.com/sababashfa
+- LinkedIn: https://www.linkedin.com/in/sababashfakfahim/
+- Portfolio: https://www.poshcoder.com
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sababashfa&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sababashfa&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sababashfa&theme=github-dark)
+
+---
+
+## 📊 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sababashfa&theme=github-dark)
+
+---
+
+> "Building intelligent systems that bridge research and real-world impact."
