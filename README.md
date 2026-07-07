@@ -118,7 +118,7 @@ Currently, I'm transitioning my portfolio toward **Applied AI Engineering** and 
 
 ## 🌍 Connect with Me
 
-- GitHub: https://github.com/sababashfa
+- GitHub: https://github.com/sababashfak
 - LinkedIn: https://www.linkedin.com/in/sababashfakfahim/
 - Portfolio: https://www.poshcoder.com
 
@@ -126,17 +126,17 @@ Currently, I'm transitioning my portfolio toward **Applied AI Engineering** and 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sababashfa&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sababashfak&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sababashfa&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sababashfak&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sababashfa&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=sababashfak&theme=github-dark)
 
 ---
 
 ## 📊 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sababashfa&theme=github-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sababashfak&theme=github-dark)
 
 ---
 
@@ -150,26 +150,15 @@ Currently, I'm transitioning my portfolio toward **Applied AI Engineering** and 
 
 - ...your top languages...:
 
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sababashfak&langs_count=4)
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sababashfak&langs_count=5)
 
-- ...and development time:
 
-  [![Fahim's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=sababashfak&langs_count=6)](https://wakatime.com/@sababashfak)
-
-- Pin more than 6 repos in your GitHub profile:
-
-  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sababashfak&repo=github-readme-stats)](https://github.com/sababashfak/github-readme-stats)
-
-- Pin Gists in your GitHub profile:
-
-  [![Gist Card](https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d)
 
 - Customize all the cards:
 
-  [![Fahim's GitHub stats](https://github-stats-extended.vercel.app/api/?username=sababashfak&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Fahim's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=sababashfak&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Fahim's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+  [![Fahim's GitHub stats](https://github-stats-extended.vercel.app/api/?username=sababashfak&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Sabab+Ashfak+Fahim's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=sababashfak&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Sabab+Ashfak+Fahim's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
-# Advanced Customization
-The [GitHub-Stats-Extended Wizard](https://github-stats-extended.vercel.app/frontend) offers some essential customization options. For more advanced customization check out the [advanced documentation](docs/advanced_documentation.md).
+
 
 
 
